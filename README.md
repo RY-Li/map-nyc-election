@@ -49,10 +49,14 @@ Create a side-by-side map comparing <b>primary and general election results</b> 
 <br>
 <br>
 <b>Go to https://r-li.com/Map_the_NYC_Election to view the map.</b>
+<br>
+<br>
+<h3>Preview</h3>
+<img src="pics/1.png" alt="Preview 1">
+<br>
+<img src="pics/2.png" alt="Preview 2">
 
 
 <br>
-<br>
 
-
-<b>Contact me at 42@r-li.com for any questions.</b>
+<b>Contact me at 42@r-li.com for any question.</b>
