@@ -48,7 +48,7 @@ Similar to&nbsp;&nbsp;<i>"general-mayoral-enr/2025-general.ipynb"</i>&nbsp;, exc
 Create a side-by-side map comparing <b>primary and general election results</b> for <b>Mamdani versus Cuomo</b> to visualize spatial shifts for the same top candidates.
 <br>
 <br>
-<b>Go to https://r-li.com/Map_the_NYC_Election to view the map.</b>
+<b>Go to https://r-li.com/map-nyc-election to view the map.</b>
 <br>
 <br>
 <h3>Preview</h3>
