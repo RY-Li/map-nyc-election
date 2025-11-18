@@ -1,4 +1,4 @@
-# Map_the_NYC_Election
+# map-nyc-election
 
 <h2>Map the NYC 2025 Primary & General Election<br>- Open-Source NYC Mayoral Real-Time Election Night Results Mapping at the Election District (ED) Level</h2>
 
